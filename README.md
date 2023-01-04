@@ -11,8 +11,8 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Th0rnike/Art-Gallery-Website](https://your-solution-url.com)
+- Live Site URL: [https://th0rnike.github.io/Art-Gallery-Website/](https://your-live-site-url.com)
 
 ## My process
 
